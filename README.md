@@ -2,6 +2,9 @@
 
 **Senior Specialist, Product Ops** · Bangalore, India (open to relocation)
 
+Moving from product operations into **program and product management**, with a focus on
+AI-enabled delivery.
+
 I run SaaS implementations end to end, then build the small tools that make the next one faster:
 Python and Streamlit utilities, LLM-assisted support workflows, and validation gates that replace
 manual checking. I like work where operations, data, and software meet.
@@ -17,9 +20,8 @@ manual checking. I like work where operations, data, and software meet.
 
 ## Projects you can try right now
 
-Each project has a live demo that runs in your browser, with nothing to install. The demos use
-synthetic data (the MoveInSync Guide uses public web pages only); none of it comes from an employer
-or customer.
+Each project has a live demo that runs in your browser, with nothing to install. All
+demo data is synthetic.
 
 - **[report-comparator](https://github.com/amanksingh633/report-comparator)** ([live demo](https://amanksingh633.github.io/report-comparator/)):
   diffs two CSV/Excel reports by key with numeric tolerances; CLI exit codes make it a release gate.
@@ -30,13 +32,15 @@ or customer.
 - **[SchoolSync](https://github.com/amanksingh633/schoolsync-demo)** ([live demo, one-click sign-in](https://amanksingh633.github.io/schoolsync-demo/)):
   school management PWA (React, Vite, Firebase) for attendance, fees, academics, notices, and parent
   communication, with offline support. Demo build only; the source is private.
-- **[MoveInSync Guide](https://github.com/amanksingh633/moveinsync-guide)** ([live demo](https://amanksingh633.github.io/moveinsync-guide/)):
-  unofficial Q&A bot that answers from cited public sources only. Retrieval, guardrails and grounded
-  Gemini answers on Vertex AI, with an evaluation harness. The demo runs in the browser; connecting the
-  Gemini backend is a documented deploy step.
+
+Each project's README has a **Product notes** section: the problem, who it is for, the decisions and
+trade-offs behind it, and how I would measure success.
+([report-comparator](https://github.com/amanksingh633/report-comparator#product-notes) ·
+[penalty-rules-engine](https://github.com/amanksingh633/penalty-rules-engine#product-notes) ·
+[SchoolSync](https://github.com/amanksingh633/schoolsync-demo#product-notes))
 
 The projects have test suites and CI. report-comparator and penalty-rules-engine are independent,
-generic implementations of patterns I use at work; MoveInSync Guide uses public information only.
+generic implementations of patterns I use at work. None of them contains employer code or data.
 
 ## Toolbox
 
@@ -53,5 +57,5 @@ using AI in everyday work, money, and travel.
 - LinkedIn: [linkedin.com/in/the-aman-singh](https://www.linkedin.com/in/the-aman-singh)
 - Email: amanksingh286@gmail.com
 
-I'm open to conversations about implementation, product operations, program management, and
-solutions roles in SaaS and AI.
+I'm open to conversations about program management, product management, product operations, and
+implementation roles in SaaS and AI.
