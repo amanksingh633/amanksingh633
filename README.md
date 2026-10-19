@@ -25,9 +25,10 @@ synthetic; none of it comes from an employer or customer.
 | **report-comparator** | [Live demo](https://amanksingh633.github.io/report-comparator/) · [Code](https://github.com/amanksingh633/report-comparator) | Diffs two CSV/Excel reports by key with numeric tolerances; CLI exit codes make it a release gate. The demo runs the real Python and pandas code in your browser. |
 | **penalty-rules-engine** | [Live demo](https://amanksingh633.github.io/penalty-rules-engine/) · [Code](https://github.com/amanksingh633/penalty-rules-engine) | Rule-driven penalties at trip, driver, vehicle, and vendor level, with mandatory human review and a tamper-evident audit log. |
 | **SchoolSync** | [Live demo](https://amanksingh633.github.io/schoolsync-demo/) · [Demo repo](https://github.com/amanksingh633/schoolsync-demo) | School management PWA (React, Vite, Firebase): attendance, fees, academics, notices, and parent communication, with offline support. Demo build only; source is private. |
+| **MoveInSync Guide** | [Live demo](https://amanksingh633.github.io/moveinsync-guide/) · [Code](https://github.com/amanksingh633/moveinsync-guide) | Unofficial Q&A bot that answers from cited public sources only. Retrieval, guardrails and grounded Gemini answers on Vertex AI, with an evaluation harness. The demo runs in the browser; connecting the Gemini backend is a documented deploy step. |
 
-The two Python projects have test suites and are independent, generic implementations of patterns
-I use at work.
+The Python projects have test suites. report-comparator and penalty-rules-engine are independent,
+generic implementations of patterns I use at work; MoveInSync Guide uses public information only.
 
 ## Toolbox
 
