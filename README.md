@@ -18,7 +18,7 @@ manual checking. I like work where operations, data, and software meet.
 ## Projects on this profile
 
 Both are generic, independent implementations on synthetic data. No employer code or customer
-data. Each has tests and CI.
+data. Each has a test suite.
 
 | Project | What it does |
 |---|---|
