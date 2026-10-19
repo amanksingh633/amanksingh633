@@ -17,8 +17,9 @@ manual checking. I like work where operations, data, and software meet.
 
 ## Projects you can try right now
 
-Each project has a live demo that runs in your browser, with nothing to install. All data is
-synthetic; none of it comes from an employer or customer.
+Each project has a live demo that runs in your browser, with nothing to install. The demos use
+synthetic data (the MoveInSync Guide uses public web pages only); none of it comes from an employer
+or customer.
 
 - **[report-comparator](https://github.com/amanksingh633/report-comparator)** ([live demo](https://amanksingh633.github.io/report-comparator/)):
   diffs two CSV/Excel reports by key with numeric tolerances; CLI exit codes make it a release gate.
