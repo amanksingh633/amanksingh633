@@ -27,7 +27,7 @@ or customer.
 - **[penalty-rules-engine](https://github.com/amanksingh633/penalty-rules-engine)** ([live demo](https://amanksingh633.github.io/penalty-rules-engine/)):
   rule-driven penalties at trip, driver, vehicle, and vendor level, with mandatory human review and a
   tamper-evident audit log.
-- **[SchoolSync](https://github.com/amanksingh633/schoolsync-demo)** ([live demo](https://amanksingh633.github.io/schoolsync-demo/)):
+- **[SchoolSync](https://github.com/amanksingh633/schoolsync-demo)** ([live demo, one-click sign-in](https://amanksingh633.github.io/schoolsync-demo/)):
   school management PWA (React, Vite, Firebase) for attendance, fees, academics, notices, and parent
   communication, with offline support. Demo build only; the source is private.
 - **[MoveInSync Guide](https://github.com/amanksingh633/moveinsync-guide)** ([live demo](https://amanksingh633.github.io/moveinsync-guide/)):
