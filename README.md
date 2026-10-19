@@ -15,15 +15,19 @@ manual checking. I like work where operations, data, and software meet.
 - **Applied AI:** an LLM support assistant (about 30% less response time and manual load) and a
   retrieval-based config lookup on Google Cloud AI Applications.
 
-## Projects on this profile
+## Projects you can try right now
 
-Both are generic, independent implementations on synthetic data. No employer code or customer
-data. Each has a test suite.
+Each project has a live demo that runs in your browser, with nothing to install. All data is
+synthetic; none of it comes from an employer or customer.
 
-| Project | What it does |
-|---|---|
-| [**report-comparator**](https://github.com/amanksingh633/report-comparator) | Diffs two CSV/Excel reports by key with numeric tolerances; CLI exit codes make it a release gate, plus a Streamlit UI. |
-| [**penalty-rules-engine**](https://github.com/amanksingh633/penalty-rules-engine) | Rule-driven penalties at trip, driver, vehicle, and vendor level, with mandatory human review and a tamper-evident audit log. |
+| Project | Try it | What it does |
+|---|---|---|
+| **report-comparator** | [Live demo](https://amanksingh633.github.io/report-comparator/) · [Code](https://github.com/amanksingh633/report-comparator) | Diffs two CSV/Excel reports by key with numeric tolerances; CLI exit codes make it a release gate. The demo runs the real Python and pandas code in your browser. |
+| **penalty-rules-engine** | [Live demo](https://amanksingh633.github.io/penalty-rules-engine/) · [Code](https://github.com/amanksingh633/penalty-rules-engine) | Rule-driven penalties at trip, driver, vehicle, and vendor level, with mandatory human review and a tamper-evident audit log. |
+| **SchoolSync** | [Live demo](https://amanksingh633.github.io/schoolsync-demo/) · [Demo repo](https://github.com/amanksingh633/schoolsync-demo) | School management PWA (React, Vite, Firebase): attendance, fees, academics, notices, and parent communication, with offline support. Demo build only; source is private. |
+
+The two Python projects have test suites and are independent, generic implementations of patterns
+I use at work.
 
 ## Toolbox
 
